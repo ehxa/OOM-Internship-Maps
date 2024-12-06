@@ -8,3 +8,5 @@
 node_modules/.bin/he
 *.json
 /app/data/.ipynb_checkpoints
+/my-app/node_modules
+Conversion/wrfout_d01_2024-08-25_00_00_00
